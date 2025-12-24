@@ -1,7 +1,0 @@
-{
-  "name": "TipsyContacts",
-  "description": "Upload a LinkedIn screenshot or business card to automatically parse details into a structured format ready for Google Sheets.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
