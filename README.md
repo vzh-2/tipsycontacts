@@ -1,8 +1,8 @@
 # TipsyContacts
 
 ## Elite Networking. Zero Amnesia.
-
-TipsyContacts is an AI-powered tool designed to streamline your post-networking follow-ups. Stop manually inputting contact details from business cards or LinkedIn screenshots. Simply snap a photo or record a quick voice memo, and let our AI extract and organize the information directly into your Google Sheet, ensuring you never forget a valuable connection.
+Great Connections happen at happy hour; remembering them the next morning is another story. Stop stuffing business cards into your pockets or fumbling with screenshots after a few drinks
+**Just snap a photo of their card or LinkedIn profile, record a quick voice memo about why they're awesome *(slurring is okay!)*, and let our AI magically extract the details and sync them directly to your Google Sheet**. Knock out your follow-ups on the ride home - even if you're three drinks deep
 
 ## Features
 
